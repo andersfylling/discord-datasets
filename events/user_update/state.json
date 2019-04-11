@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+      "verified": true,
+      "username": "Test",
+      "mfa_enabled": true,
+      "locale": "en-US",
+      "id": "486832262592069632",
+      "email": "test@random.org",
+      "discriminator": "1135",
+      "bot": true,
+      "avatar": "8dbfd397e37453ff100911dc5a93"
+    }
+  ]
+}
